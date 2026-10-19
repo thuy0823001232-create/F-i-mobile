@@ -1,0 +1,6 @@
+{
+  "name": "Super Turbo Football 3D - Battle Arena",
+  "description": "3D action multiplayer soccer stadium game with turbo cars, blasters, referee, live voice commentary, goal replays, weekly leaderboards, and Gmail alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
